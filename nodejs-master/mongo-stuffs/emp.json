@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "firstName": "LP Shivan 222",
+        "lastName": "Venkat",
+        "city": "Trivandrum"
+    },
+    {
+        "id": 2,
+        "firstName": "R Raj 222",
+        "lastName": "Krishnan",
+        "city": "Bangalore"
+    },
+    {
+        "id": 3,
+        "firstName": "Easwaran 222",
+        "lastName": "Nair",
+        "city": "Trivandrum"
+    }
+]
